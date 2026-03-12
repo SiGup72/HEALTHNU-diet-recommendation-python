@@ -4,7 +4,6 @@
 HEALTHNU is a Python-based diet recommendation system that calculates a user's Body Mass Index (BMI) using personal health inputs and suggests a suitable diet plan based on the BMI category. The system includes a simple graphical user interface and stores user data and feedback using a MySQL database.
 
 ---
-
 ## Features
 - Calculates BMI based on user inputs (height and weight)
 - Categorizes users into health groups (Underweight, Normal, Overweight, Obese)
@@ -13,7 +12,6 @@ HEALTHNU is a Python-based diet recommendation system that calculates a user's B
 - Stores user details and feedback in a MySQL database
 
 ---
-
 ## Tech Stack
 **Programming Language**
 - Python
@@ -26,7 +24,6 @@ HEALTHNU is a Python-based diet recommendation system that calculates a user's B
 - Python IDLE / Visual Studio Code
 
 ---
-
 ## Project Structure
 ```
 healthnu
@@ -38,7 +35,6 @@ healthnu
 ```
 
 ---
-
 ## Database Structure
 Database Name: **HEALTHNU**
 Tables:
@@ -47,7 +43,6 @@ Tables:
 - **Feedback_and_Suggestions** – Stores user feedback and suggestions
 
 ---
-
 ## How to Run
 1. Create the database:
 ```
