@@ -33,7 +33,6 @@ healthnu
 │
 ├── healthnu.py
 ├── database.sql
-├── diet_plan.txt
 └── README.md
 ```
 
