@@ -15,11 +15,14 @@ HEALTHNU is a Python-based diet recommendation system that calculates a user's B
 ## Tech Stack
 **Programming Language**
 - Python
+  
 **Libraries**
 - Tkinter
 - MySQL Connector
+  
 **Database**
 - MySQL
+  
 **Tools**
 - Python IDLE / Visual Studio Code
 
@@ -37,6 +40,7 @@ healthnu
 ---
 ## Database Structure
 Database Name: **HEALTHNU**
+
 Tables:
 - **Calories** – Stores calorie-related information
 - **Details** – Stores user health details
